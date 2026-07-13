@@ -4,12 +4,6 @@
   Data Engineer at a Fortune 500 FMCG company · VIT '25 · IEEE-published
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/gautham_arun">
-    <img src="https://leetcard.jacoblin.cool/gautham_arun?theme=dark&font=Ubuntu&ext=charts" alt="LeetCode Stats" />
-  </a>
-</p>
-
 ---
 
 I build data pipelines and backend systems. Currently doing AWS-to-Azure migration and cross-regional data model validation at work. Outside of that, I'm grinding DSA and building portfolio projects targeting Tier 1 product companies.
