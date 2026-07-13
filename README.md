@@ -10,12 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/gautham_arun">
-    <img src="https://leetcode-stats-api.herokuapp.com/?username=gautham_arun&theme=dark" alt="LeetCode Stats" />
-  </a>
-</p>
-
 ---
 
 I build data pipelines and backend systems. Currently doing AWS-to-Azure migration and cross-regional data model validation at work. Outside of that, I'm grinding DSA and building portfolio projects targeting Tier 1 product companies.
