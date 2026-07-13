@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/gauthamarun100">
-    <img src="https://leetcard.jacoblin.cool/gauthamarun100?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/gautham_arun">
+    <img src="https://leetcard.jacoblin.cool/gautham_arun?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
   </a>
 </p>
 
