@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gautham-arun-859ab121b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:gauthamarun100@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/gauthamarun100">
+    <img src="https://leetcard.jacoblin.cool/gauthamarun100?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
+  </a>
 </p>
 
 <p align="center">
