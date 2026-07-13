@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/gautham_arun">
-    <img src="https://leetcard.jacoblin.cool/gautham_arun?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/gautham_arun?theme=dark&font=Ubuntu&ext=charts" alt="LeetCode Stats" />
   </a>
 </p>
 
