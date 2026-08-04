@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Gautham 👋</h1>
 <p align="center">
-  Data Engineer at a ortune 500 FMCG company · VIT '25 · IEEE-published
+  Data Engineer at a Fortune 500 FMCG company · VIT '25 · IEEE-published
 </p>
 
 ---
